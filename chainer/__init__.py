@@ -14,6 +14,7 @@ from chainer import initializers
 from chainer import link
 from chainer import optimizer
 from chainer import serializer
+from chainer import structures
 from chainer import variable
 
 
